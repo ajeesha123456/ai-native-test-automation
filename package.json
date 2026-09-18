@@ -1,0 +1,23 @@
+{
+  "name": "ai-native-test-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajeesha123456/ai-native-test-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ajeesha123456/ai-native-test-automation/issues"
+  },
+  "homepage": "https://github.com/ajeesha123456/ai-native-test-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.1"
+  }
+}
