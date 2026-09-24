@@ -18,6 +18,12 @@
   "homepage": "https://github.com/ajeesha123456/ai-native-test-automation#readme",
   "devDependencies": {
     "@playwright/test": "^1.63.0",
-    "@types/node": "^26.6.1"
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.15"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.3",
+    "openai": "^7.23.0",
+    "zod": "^4.6.5"
   }
 }
